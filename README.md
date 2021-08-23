@@ -22,7 +22,7 @@ use Illuminate\Support\Facades\Http;
 ```
 <h4>Autenticación Básica:</h4>
 
-Se requiere generar una API-KEY para poder hacer peticiones al servicio, por lo que deben proporcionar las credenciales requeridas, usuario y contraseña del dashboard de Timbox.
+<p>Se requiere generar una API-KEY para poder hacer peticiones al servicio, por lo que deben proporcionar las credenciales requeridas, usuario y contraseña del dashboard de Timbox.</p>
 
 URL de autenticación: https://staging.ws.timbox.com.mx/api/auth
 
@@ -37,6 +37,8 @@ private static function getApiKey($user, $password){
        }
    }
 ```
+
+<p>Todos los métodos siguientes se encuentran en app/models/ApiRest.php</p>
 
 <h4>Método Buscar_Acuse:</h4>
 
