@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<h1 align:="center">Integración Laravel - PHP API REST</h1>
+<h1 align:="center">Integración Laravel - Timbox Web Service API REST</h1>
 
 <p> En el presente documento se encuentra la documentación correspondiente a los snippets de código desarrollados utilizando el framework Laravel v8.5 así como también las librerías externas utilizadas para realizar las solicitudes HTTP correspondientes a la API REST del proyecto de Web Service de Timbox.</p>
 
